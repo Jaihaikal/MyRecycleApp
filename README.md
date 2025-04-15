@@ -1,0 +1,2 @@
+# MyRecycleApp
+Ionic Starter
