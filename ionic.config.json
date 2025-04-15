@@ -1,0 +1,7 @@
+{
+  "name": "MyRecycleApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
